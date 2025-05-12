@@ -2,8 +2,7 @@
 
 <div align="center">
   
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gyan%20Chandra&fontSize=90&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descAlign=50&fontColor=ffffff)](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gyan%20Chandra&fontSize=90&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50&fontColor=ffffff
-)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gyan%20Chandra&fontSize=90&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descAlign=50&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D433&width=435&lines=Welcome+to+my+GitHub+Profile!;Building+innovative+solutions;Passionate+about+technology;Always+learning+new+skills" alt="Typing SVG" /></a>
 
