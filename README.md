@@ -185,7 +185,7 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
 <a href="mailto:chandragyan2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/gyanchandra2910"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=70&fontAlignY=40&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=65&animation=twinkling"/>
 
 </div>
 
@@ -193,5 +193,4 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
   
 _"Strive for progress, not perfection."_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=65&animation=twinkling"/>
 </div>
