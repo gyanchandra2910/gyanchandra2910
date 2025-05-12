@@ -20,7 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/gyanchandra2910)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:cs23i1053@iiitdm.ac.in)
 
-<img src="https://komarev.com/ghpvc/?username=gyanchandra2910&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
@@ -34,11 +33,7 @@
 
 I'm Gyan, a tech enthusiast passionate about building useful software and learning deeply about systems. I enjoy working on meaningful projects, collaborating with like-minded people, and constantly growing my development and problem-solving skills.
 
-- 🔭 Currently exploring: **Full Stack Development & System Design**
-- 🌱 Learning: **React.js, Node.js, and Cloud Technologies**
-- 👯 Looking to collaborate on: **Open-source projects & Hackathons**
-- 💬 Ask me about: **C++, Web Development, Data Structures**
-- ⚡ Fun fact: **I can solve coding problems while listening to heavy metal music!**
+
 
 ---
 
