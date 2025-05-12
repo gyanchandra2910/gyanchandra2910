@@ -193,4 +193,5 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
   
 _"Strive for progress, not perfection."_
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=65&animation=twinkling"/>
 </div>
