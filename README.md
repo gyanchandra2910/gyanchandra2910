@@ -181,15 +181,6 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Gyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanchandra2910&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanchandra2910&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=radical)
-
-</div>
 
 ## 📞 Connect With Me
 
