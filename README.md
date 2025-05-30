@@ -158,13 +158,7 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
 
 ---
 
-### 🌾 [Climate Pulse](https://github.com/krtannu/ClimatePulse.git)
 
-- Climate awareness tool designed for farmers
-- Collaborated on structure and overview
-- **Tech:** No-code tools, MySQL, Vultr Cloud
-
----
 
 ### ❌ [Tic Tac Toe Game (C++)](https://github.com/gyanchandra2910/Tic-Tac-Toe)
 
