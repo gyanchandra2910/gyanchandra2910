@@ -161,11 +161,6 @@ I'm Gyan, a tech enthusiast focused on scalable software development and systems
 </p>
 
 <!-- Profile footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="Footer" />
-</div>
-<a href="mailto:chandragyan2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/gyanchandra2910"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br><br>
 
