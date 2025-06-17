@@ -1,6 +1,5 @@
 <div align="center">
 
-# ✨ Gyan Chandra
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Gyan%20Chandra&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descSize=18&animation=fadeIn&fontColor=ffffff)
 
