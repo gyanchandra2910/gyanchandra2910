@@ -1,83 +1,88 @@
-# 💻 Gyan Chandra
-
 <div align="center">
-  
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gyan%20Chandra&fontSize=90&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descAlign=50&fontColor=ffffff)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D433&width=435&lines=Welcome+to+my+GitHub+Profile!;Building+innovative+solutions;Passionate+about+technology;Always+learning+new+skills" alt="Typing SVG" /></a>
+# ✨ Gyan Chandra
 
-**"Jeet teri jidd hai, haar mera shauk."**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Gyan%20Chandra&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descSize=18&animation=fadeIn&fontColor=ffffff)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="300" alt="handshake" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+Profile;Building+innovative+solutions;Passionate+about+technology;Always+learning+new+skills" alt="Typing SVG" /></a>
 
-🎓 B.Tech + M.Tech Dual Degree | Computer Science & Engineering  
-🏫 IIITDM Kancheepuram  
-📫 Email: cs23i1053@iiitdm.ac.in  
-🔗 LinkedIn: [Gyan Chandra](https://www.linkedin.com/in/gyanchandra29102003)  
-💻 GitHub: [gyanchandra2910](https://github.com/gyanchandra2910)
-🌐 Portfolio: [gyanchandra2910](https://gyanchandra2910.github.io/portfolio/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/gyanchandra29102003)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/gyanchandra2910)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:cs23i1053@iiitdm.ac.in)
-
-<img src="https://komarev.com/ghpvc/?username=gyanchandra2910&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<p align="center"><em>"Jeet teri jidd hai, haar mera shauk."</em></p>
 
 </div>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/gyanchandra29102003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/gyanchandra2910"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="mailto:cs23i1053@iiitdm.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://gyanchandra2910.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gyanchandra2910&style=flat-square&color=738ADB" alt="Profile Views" />
+</p>
 
-## 👋 About Me
+<div align="center">
+  <img src="https://github.com/gyanchandra2910/gyanchandra2910/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 👨‍� About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm Gyan, a tech enthusiast passionate about building useful software and learning deeply about systems. I enjoy working on meaningful projects, collaborating with like-minded people, and constantly growing my development and problem-solving skills.
 
+- 🎓 **B.Tech + M.Tech Dual Degree** | Computer Science & Engineering at IIITDM Kancheepuram
 - 🔭 Currently exploring: **Full Stack Development & System Design**
 - 🌱 Learning: **React.js, Node.js, and Cloud Technologies**
 - 👯 Looking to collaborate on: **Open-source projects & Hackathons**
 - 💬 Ask me about: **C++, Web Development, Data Structures**
 - ⚡ Fun fact: **I can solve coding problems while listening to heavy metal music!**
 
----
+## 🛠️ Tech Stack
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" />
-<img src="https://img.shields.io/badge/Verilog-8D6748?style=for-the-badge&logo=xilinx&logoColor=white&labelColor=8D6748" />
-</p>
-
-### 🚀 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h3 align="center">💻 Languages</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />&nbsp;
+        <img src="https://img.shields.io/badge/Verilog-8D6748?style=flat-square&logo=xilinx&logoColor=white" alt="Verilog" />
+      </div>
+    </td>
+    <td valign="top">
+      <h3 align="center">⚡ Skills</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Problem_Solving-5CB85C?style=flat-square&logo=leetcode&logoColor=white" alt="Problem Solving" />&nbsp;
+        <img src="https://img.shields.io/badge/System_Design-0088CC?style=flat-square&logo=blueprint&logoColor=white" alt="System Design" />&nbsp;
+        <img src="https://img.shields.io/badge/Touch_Typing-3178C6?style=flat-square&logo=keyboard&logoColor=white" alt="Touch Typing" />&nbsp;
+        <img src="https://img.shields.io/badge/Data_Structures-FF6F00?style=flat-square&logo=treejs&logoColor=white" alt="Data Structures" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="center">🚀 Frameworks & Libraries</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />&nbsp;
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </div>
+    </td>
+    <td valign="top">
+      <h3 align="center">�️ Databases & Tools</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -85,19 +90,37 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Gyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanchandra2910&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanchandra2910&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=radical)
+<p align="center">
+  <a href="https://github.com/gyanchandra2910">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyanchandra2910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Gyan's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanchandra2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gyan's Top Languages" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/gyanchandra2910">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=tokyonight&hide_border=true&background=0D1117" alt="Gyan's GitHub Streak" />
+  </a>
+</p>
+
+## � Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gyanchandra29102003">
+    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gyanchandra2910.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/-Visit_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:cs23i1053@iiitdm.ac.in">
+    <img src="https://img.shields.io/badge/-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<!-- Profile footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="Footer" />
 </div>
-
-## 📞 Connect With Me
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/gyanchandra29102003"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:chandragyan2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/gyanchandra2910"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
