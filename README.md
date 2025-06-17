@@ -25,34 +25,7 @@
   </picture>
 </div>
 
-<details>
-  <summary align="center"><h3>🌟 Featured Projects & Contributions</h3></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/gyanchandra2910" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gyanchandra2910&repo=repo-name&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30D158&hide_border=true" alt="Project 1" />
-          </a>
-          <p><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</p>
-          <p>A brief description of your project highlighting system design and scalability aspects that would interest FAANG recruiters.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <a href="https://github.com/gyanchandra2910" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gyanchandra2910&repo=repo-name&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30D158&hide_border=true" alt="Project 2" />
-          </a>
-          <p><strong>Tech Stack:</strong> C++, Data Structures & Algorithms</p>
-          <p>A brief description highlighting algorithm optimization and problem-solving skills that FAANG companies value.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</details>
+
 
 ## 👨‍� About Me
 
@@ -65,7 +38,7 @@ I'm Gyan, a tech enthusiast focused on scalable software development and systems
 - 📊 Experienced with: **Data Structures, Distributed Systems & Performance Optimization**
 - � Currently building: **Scalable web applications with emphasis on best practices**
 - � Technical interests: **Software Architecture, Cloud Infrastructure & ML/AI**
-- ⚡ Fun fact: **I can solve coding problems while listening to heavy metal music!**
+- ⚡ Fun fact: **I can solve coding problems while listening to heavy music!**
 
 ## 🛠️ Tech Stack
 
