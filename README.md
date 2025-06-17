@@ -19,20 +19,53 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/gyanchandra2910/gyanchandra2910/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<details>
+  <summary align="center"><h3>🌟 Featured Projects & Contributions</h3></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1</h3>
+        <div align="center">
+          <a href="https://github.com/gyanchandra2910" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gyanchandra2910&repo=repo-name&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30D158&hide_border=true" alt="Project 1" />
+          </a>
+          <p><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</p>
+          <p>A brief description of your project highlighting system design and scalability aspects that would interest FAANG recruiters.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <div align="center">
+          <a href="https://github.com/gyanchandra2910" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gyanchandra2910&repo=repo-name&theme=react&bg_color=1F222E&title_color=3BEFF7&icon_color=30D158&hide_border=true" alt="Project 2" />
+          </a>
+          <p><strong>Tech Stack:</strong> C++, Data Structures & Algorithms</p>
+          <p>A brief description highlighting algorithm optimization and problem-solving skills that FAANG companies value.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ## 👨‍� About Me
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm Gyan, a tech enthusiast passionate about building useful software and learning deeply about systems. I enjoy working on meaningful projects, collaborating with like-minded people, and constantly growing my development and problem-solving skills.
+I'm Gyan, a tech enthusiast focused on scalable software development and systems architecture. I approach problems with a methodical mindset, prioritizing clean code, optimal algorithms, and maintainable architecture—skills valued in high-performance engineering teams.
 
 - 🎓 **B.Tech + M.Tech Dual Degree** | Computer Science & Engineering at IIITDM Kancheepuram
-- 🔭 Currently exploring: **Full Stack Development & System Design**
-- 🌱 Learning: **React.js, Node.js, and Cloud Technologies**
-- 👯 Looking to collaborate on: **Open-source projects & Hackathons**
-- 💬 Ask me about: **C++, Web Development, Data Structures**
+- 🧠 Specializing in: **Algorithms, System Design & Full-Stack Development**
+- 📊 Experienced with: **Data Structures, Distributed Systems & Performance Optimization**
+- � Currently building: **Scalable web applications with emphasis on best practices**
+- � Technical interests: **Software Architecture, Cloud Infrastructure & ML/AI**
 - ⚡ Fun fact: **I can solve coding problems while listening to heavy metal music!**
 
 ## 🛠️ Tech Stack
@@ -88,20 +121,31 @@ I'm Gyan, a tech enthusiast passionate about building useful software and learni
 
 ---
 
-## 📊 GitHub Stats
+## � Metrics & Performance
 
-<p align="center">
-  <a href="https://github.com/gyanchandra2910">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyanchandra2910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Gyan's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanchandra2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gyan's Top Languages" />
-  </a>
-</p>
+<!-- Add a clean metrics section that FAANG recruiters would appreciate -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=gyanchandra2910&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=contribs" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=gyanchandra2910&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanchandra2910&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="500px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="https://github.com/gyanchandra2910">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=tokyonight&hide_border=true&background=0D1117" alt="Gyan's GitHub Streak" />
-  </a>
-</p>
+<!-- Activity graph that shows consistency, which FAANG values -->
+<a href="https://github.com/gyanchandra2910">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gyanchandra2910&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=58A6FF&line=58A6FF" width="100%">
+</a>
 
 ## � Let's Connect
 
