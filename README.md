@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Gyan%20Chandra&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descSize=18&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Gyan%20Chandra&fontSize=70&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Problem%20Solver&descSize=18&animation=fadeIn&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+Profile;Building+innovative+solutions;Passionate+about+technology;Always+learning+new+skills" alt="Typing SVG" /></a>
 
