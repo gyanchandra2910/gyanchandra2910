@@ -14,7 +14,7 @@
 I'm Gyan, a Computer Science student at IIITDM Kancheepuram specializing in full-stack development and algorithms. I focus on building scalable applications with clean code and optimal performance.
 
 - 🎓 B.Tech + M.Tech CS & Engineering | IIITDM Kancheepuram
-- 💻 Full-Stack Developer with expertise in React, Node.js, and system design
+- 💻 Full-Stack Developer with expertise in React, Node.js
 - 🧠 Strong foundation in Data Structures, Algorithms, and Problem Solving
 - ⚡ Fun fact: I can solve coding problems while listening to heavy music!
 
