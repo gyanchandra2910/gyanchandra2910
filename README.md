@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gyan-chandra-7b6559314/" target="_blank">
+  <a href="https://www.linkedin.com/in/gyanchandra29102003" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://gyanchandra2910.github.io/portfolio/" target="_blank">
@@ -39,5 +39,5 @@
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Gyan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=tokyonight&hide_border=true" alt="Gyan's GitHub Streak" />
 </p>
