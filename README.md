@@ -1,34 +1,53 @@
-# Gyan Chandra
-**Full-Stack Developer | Problem Solver**
+<h1 align="center">Hi there! I'm Gyan Chandra! 👋</h1>
 
-[LinkedIn](https://www.linkedin.com/in/gyanchandra29102003) &nbsp;&middot;&nbsp; [Portfolio](https://gyanchandra2910.github.io/portfolio/) &nbsp;&middot;&nbsp; [Email](mailto:cs23i1053@iiitdm.ac.in)
+<h3 align="center">A CSE Dual Degree Student at IIIT Kancheepuram, India.</h3>
 
----
+<br>
 
-## 👨‍💻 About Me
+- 🔭 I’m currently learning about **Artificial Intelligence, Deep Learning, and High-Frequency Trading (HFT)**.
+- 🌱 Some of my core focus areas include *Data Structures & Algorithms, Competitive Programming, and Full-Stack Web Development*.
+- 📫 Reach me at [cs23i1053@iiitdm.ac.in](mailto:cs23i1053@iiitdm.ac.in).
+- ⚡ Fun fact: I do my best debugging and algorithm-cracking while listening to heavy music!
 
-I'm a Computer Science student (B.Tech + M.Tech) at **IIITDM Kancheepuram**, specializing in full-stack web development and algorithms. I focus on building scalable applications with clean code and optimal performance.
+<br>
 
-* **Current Focus:** Building robust full-stack applications and strengthening my foundation in Data Structures and Algorithms.
-* **Expertise:** React, Node.js, and complex problem-solving.
-* **Fun Fact:** I do my best debugging and algorithm-cracking while listening to heavy music!
+### Connect with me
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/gyanchandra29102003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gyanchandra2910.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack
+<br>
 
-**Languages**
-* C++, JavaScript
+### Currently Working with
 
-**Frontend**
-* React.js
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+</p>
 
-**Backend & Databases**
-* Node.js, Express.js, MySQL, MongoDB
+<br>
 
-**Tools & Version Control**
-* Git, GitHub
+### Statistics
 
----
-
-*“Strive for progress, not perfection.”*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanchandra2910&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
