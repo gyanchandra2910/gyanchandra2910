@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/gyanchandra29102003" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="https://gyanchandra2910.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-%23285B60?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -38,5 +38,5 @@
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Gyan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=tokyonight&hide_border=true" alt="Gyan's GitHub Streak" />
 </p>
