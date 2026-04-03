@@ -3,16 +3,17 @@
 
 ---
 
-- 🔭 I’m currently exploring and building with **Artificial Intelligence, Machine Learning, and Deep Learning**.
-- 🌱 Actively developing projects and sharpening my skills across the **MERN Stack**.
+- 🔭 I’m currently diving deep into **Artificial Intelligence, Reinforcement Learning, Digital Image Processing, and IoT & Cloud Computing**.
+- 🌱 My core focus areas include **Advanced Algorithms, Game Theory**, and building scalable applications with the **MERN Stack**.
+- 🚀 Gearing up to master **Pattern Recognition (PRML), Computer Vision, and Deep Learning** in the upcoming semesters!
 - 📫 Reach me at [cs23i1053@iiitdm.ac.in](mailto:cs23i1053@iiitdm.ac.in).
-- ⚡ Fun fact: I do my best debugging and coding while listening to heavy music!
+- ⚡ Fun fact: I do my best debugging and algorithm-cracking while listening to heavy music!
 
 <br/>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gyanchandra29102003" target="_blank">
+  <a href="https://www.linkedin.com/in/gyan-chandra-7b6559314/" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://gyanchandra2910.github.io/portfolio/" target="_blank">
@@ -38,5 +39,5 @@
 
 <h3 align="center">Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanchandra2910&theme=tokyonight&hide_border=true" alt="Gyan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Gyan's GitHub Streak" />
 </p>
