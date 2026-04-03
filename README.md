@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! I'm Gyan Chandra! 👋</h1>
-<h3 align="center">A CSE Dual Degree Student at IIITDM Kancheepuram, India.</h3>
+<h3 align="center">A CSE Dual Degree Student at IIIT Kancheepuram, India.</h3>
 
 ---
 
-- 🔭 I’m currently learning about **Artificial Intelligence, Deep Learning, and High-Frequency Trading (HFT)**.
-- 🌱 Some of my core focus areas include *Data Structures & Algorithms, Competitive Programming, and Full-Stack*.
+- 🔭 I’m currently exploring and building with **Artificial Intelligence, Machine Learning, and Deep Learning**.
+- 🌱 Actively developing projects and sharpening my skills across the **MERN Stack**.
 - 📫 Reach me at [cs23i1053@iiitdm.ac.in](mailto:cs23i1053@iiitdm.ac.in).
-- ⚡ Fun fact: I do my best debugging and algorithm-cracking while listening to heavy music!
+- ⚡ Fun fact: I do my best debugging and coding while listening to heavy music!
 
 <br/>
 
